@@ -13,3 +13,4 @@ git config user.name "Andres"
 git config user.email "andrescalvache24@hotmail.com"
 git remote add "https://github.com/AndresCalvache24/ClaseDesarrolloWEB.git"
 git branch -M main
+https://github.com/GBCURSOS/FSB1_152

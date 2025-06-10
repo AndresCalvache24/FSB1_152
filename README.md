@@ -12,8 +12,23 @@ monokai
 git config user.name "Andres"
 git config user.email "andrescalvache24@hotmail.com"
 git remote add "https://github.com/AndresCalvache24/ClaseDesarrolloWEB.git"
+git push origin main
+git status
+git branch
+git add proyecto.txt
 git branch -M main
+git commit -m "This is my first commit!"
 https://github.com/GBCURSOS/FSB1_152
+
+github
+git remote add main https://github.com/AndresCalvache24/ClaseDesarrolloWEB.git
+git config --global user.email "andrescalvache24@hotmail.com"
+git config --global user.name "andres"
+
+
+
+
+
 
 
 html
